@@ -1,4 +1,4 @@
-<h1>Font Preview Gallery</h1>
+<h1>Bangla Font Preview Gallery</h1>
 
 <p>This gallery showcases images generated with different fonts.</p>
 
